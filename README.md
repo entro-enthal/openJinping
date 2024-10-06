@@ -3,8 +3,8 @@
   </div>
 </div>
 ***
-An opensource Diffsinger model of President Xi.
-- More than 8 hours 32bit 48000hz sound data.
-- Manual screening.
-- Full annotation.
-- Opensource.
+An opensource Diffsinger model of President Xi.<br />
+- More than 8 hours 32bit 48000hz sound data.<br />
+- Manual screening.<br />
+- Full annotation.<br />
+- Opensource.<br />
